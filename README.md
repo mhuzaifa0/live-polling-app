@@ -3,7 +3,7 @@
 Real-time polling/voting app — create a poll, share the link or QR code, and watch results update live as people vote.
 
 ## Features
-- Create poll with question + multiple options
+- Create poll with question + multiple option
 - Unique shareable link + auto-generated QR code
 - Vote without login (IP-based duplicate vote prevention)
 - Live results via Socket.io — no refresh needed
